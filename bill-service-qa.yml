@@ -1,0 +1,7 @@
+build:
+  version: "3.0"
+
+
+bill-service:
+  message: "Welcome To Your QA Bill Service"
+  email:  "qa-bill@abc.com"

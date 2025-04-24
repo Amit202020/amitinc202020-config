@@ -1,0 +1,6 @@
+build:
+  version: "2.0"
+
+bill-service:
+  message: "Welcome To Your Prod Bill Service"
+  email:  "prod-bill@abc.com"

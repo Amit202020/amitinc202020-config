@@ -1,0 +1,6 @@
+build:
+  version: "1.0"
+
+bill-service:
+  message: "Welcome To Your Default Bill Service"
+  email:  "default-bill@abc.com"

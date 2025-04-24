@@ -1,0 +1,7 @@
+build:
+  version: "3.0"
+
+
+rest-service:
+  message: "Welcome To Your QA Rest Service"
+  email:  "qa-rest@abc.com"

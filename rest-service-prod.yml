@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+
+
+rest-service:
+  message: "Welcome To Your Prod Rest Service"
+  email:  "prod-rest@abc.com"

@@ -1,0 +1,6 @@
+build:
+  version: "1.0"
+
+rest-service:
+  message: "Welcome To Your Default Rest Service"
+  email:  "default-rest@abc.com"
